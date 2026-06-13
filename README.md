@@ -22,6 +22,14 @@ A simple Android Studio project that acts as a basic bot to interact with users 
 - UI: XML Layouts  
 - Platform: Android
 
+## 🎯 Purpose
+
+This project was built to improve my Android development skills and understand how UI interaction and logic handling work in real applications.
+
+## 🎬 Demo
+
+![MyBot Demo](assets/demo.gif)
+
   ## 👨‍💻 Developer
 
 - Name:Shreya Pathak 
