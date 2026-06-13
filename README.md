@@ -26,9 +26,12 @@ A simple Android Studio project that acts as a basic bot to interact with users 
 
 This project was built to improve my Android development skills and understand how UI interaction and logic handling work in real applications.
 
-## 🎬 Demo
+## 🔮 Future Improvements
 
-![MyBot Demo](assets/demo.gif)
+- 🤖 Add AI/ML chatbot integration  
+- 🎤 Voice input support  
+- 🌐 Online API responses  
+- 💾 Save chat history  
 
   ## 👨‍💻 Developer
 
