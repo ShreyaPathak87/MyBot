@@ -1,6 +1,12 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/ShreyaPathak87/MyBot)
-![GitHub stars](https://img.shields.io/github/stars/ShreyaPathak87e/MyBot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ShreyaPathak87/MyBot?style=social)
+# 🤖 MyBot (Android App)
+
+![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)
+![Java](https://img.shields.io/badge/Language-Java-blue?logo=java)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple?logo=kotlin)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Build](https://img.shields.io/badge/Build-Passing-success)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-orange)
+
 # 🤖 MyBot (Android App)
 
 A simple Android Studio project that acts as a basic bot to interact with users and perform simple tasks.
