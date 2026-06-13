@@ -1,6 +1,6 @@
-# 🤖 MyBot (Android App)
-![MyBot Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&text=MyBot%20Android%20App🤖&fontSize=40&fontColor=ffffff)
 
+![MyBot Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&text=MyBot%20Android%20App🤖&fontSize=40&fontColor=ffffff)
+# 🤖 MyBot (Android App)
 ![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)
 ![Java](https://img.shields.io/badge/Language-Java-blue?logo=java)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
